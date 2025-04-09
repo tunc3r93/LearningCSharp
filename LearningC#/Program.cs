@@ -10,6 +10,7 @@ namespace LearningC_
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!");
         }
     }
 }
