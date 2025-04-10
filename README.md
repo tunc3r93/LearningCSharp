@@ -7,3 +7,5 @@ Basic syntax and structure of C#
 Console input and output using Console.WriteLine and Console.ReadLine
 
 How to create and use variables
+
+Added blank Windows Form template in C# project
